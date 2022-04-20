@@ -8,3 +8,10 @@
   - Кошмар в замке <sup>[solution](algorithms/1-linear-structures-and-sorting/D-nightmare-in-the-castle.py)</sup>
   - Гоблины и очереди <sup>[solution](algorithms/1-linear-structures-and-sorting/E-goblins-and-queues.py)</sup>
   - Число <sup>[solution](algorithms/1-linear-structures-and-sorting/F-number.py)</sup>
+
+- **Оптимальные сортировки и поиски за логарифм** <sup>[`tasks`](algorithms/2-optimal-sorting-and-fast-searches/tasks.md)</sup>
+
+  - Count me in <sup>[solution](algorithms/2-optimal-sorting-and-fast-searches/A-count-me-in.py)</sup>
+  - Инверсии <sup>[solution](algorithms/2-optimal-sorting-and-fast-searches/B-inversions.py)</sup>
+  - Минимизируем максимум <sup>[solution](algorithms/2-optimal-sorting-and-fast-searches/D-minimizing-maximum.py)</sup>
+  - Дремучий лес <sup>[solution](algorithms/2-optimal-sorting-and-fast-searches/E-dense-forest.py)</sup>
