@@ -15,3 +15,11 @@
   - Инверсии <sup>[solution](algorithms/2-optimal-sorting-and-fast-searches/B-inversions.py)</sup>
   - Минимизируем максимум <sup>[solution](algorithms/2-optimal-sorting-and-fast-searches/D-minimizing-maximum.py)</sup>
   - Дремучий лес <sup>[solution](algorithms/2-optimal-sorting-and-fast-searches/E-dense-forest.py)</sup>
+
+- **Динамическое программирование-1** <sup>[`tasks`](algorithms/3-dynamic-programming-first/tasks.md)</sup>
+
+  - Калькулятор <sup>[solution](algorithms/3-dynamic-programming-first/A-calculator.py)</sup>
+  - Конём ходи! <sup>[solution](algorithms/3-dynamic-programming-first/B-ride-a-horse!.py)</sup>
+  - Наибольший квадрат <sup>[solution](algorithms/3-dynamic-programming-first/C-the-largest-square.py)</sup>
+  - Гвоздики <sup>[solution](algorithms/3-dynamic-programming-first/D-carnations.py)</sup>
+  - Лесенки <sup>[solution](algorithms/3-dynamic-programming-first/F-ladders.py)</sup>
