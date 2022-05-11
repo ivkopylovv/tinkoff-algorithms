@@ -23,3 +23,15 @@
   - Наибольший квадрат <sup>[solution](algorithms/3-dynamic-programming-first/C-the-largest-square.py)</sup>
   - Гвоздики <sup>[solution](algorithms/3-dynamic-programming-first/D-carnations.py)</sup>
   - Лесенки <sup>[solution](algorithms/3-dynamic-programming-first/F-ladders.py)</sup>
+
+- **Графы, DFS** <sup>[`tasks`](algorithms/4-graphs-dfs/tasks.md)</sup>
+
+  - Дерево? <sup>[solution](algorithms/4-graphs-dfs/A-tree.py)</sup>
+  - Компоненты связности <sup>[solution](algorithms/4-graphs-dfs/B-connectivity-components.py)</sup>
+  - Удаление клеток <sup>[solution](algorithms/4-graphs-dfs/C-cell-removal.py)</sup>
+  - Получи дерево <sup>[solution](algorithms/4-graphs-dfs/D-get-tree.py)</sup>
+  - Долой списывание! <sup>[solution](algorithms/4-graphs-dfs/E-down-with-cheating.py)</sup>
+  - Есть ли цикл? <sup>[solution](algorithms/4-graphs-dfs/F-is-there-a-cycle.py)</sup>
+  - Свинки-копилки <sup>[solution](algorithms/4-graphs-dfs/G-piggy-banks.py)</sup>
+  - Topsort <sup>[solution](algorithms/4-graphs-dfs/H-topsort.py)</sup>
+  - Предок <sup>[solution](algorithms/4-graphs-dfs/I-ancestor.py)</sup>
