@@ -35,3 +35,10 @@
   - Свинки-копилки <sup>[solution](algorithms/4-graphs-dfs/G-piggy-banks.py)</sup>
   - Topsort <sup>[solution](algorithms/4-graphs-dfs/H-topsort.py)</sup>
   - Предок <sup>[solution](algorithms/4-graphs-dfs/I-ancestor.py)</sup>
+
+- **BFS, Дейкстра** <sup>[`tasks`](algorithms/5-bfs-dijkstra/tasks.md)</sup>
+
+  - Наименьшее кратное <sup>[solution](algorithms/5-bfs-dijkstra/A-the-smallest-multiple.py)</sup>
+  - Дейкстра <sup>[solution](algorithms/5-bfs-dijkstra/B-dijkstra.py)</sup>
+  - Автобусы <sup>[solution](algorithms/5-bfs-dijkstra/C-the-buses.py)</sup>
+  - Числа <sup>[solution](algorithms/5-bfs-dijkstra/D-numbers.py)</sup>
