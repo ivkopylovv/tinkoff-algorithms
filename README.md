@@ -42,3 +42,10 @@
   - Дейкстра <sup>[solution](algorithms/5-bfs-dijkstra/B-dijkstra.py)</sup>
   - Автобусы <sup>[solution](algorithms/5-bfs-dijkstra/C-the-buses.py)</sup>
   - Числа <sup>[solution](algorithms/5-bfs-dijkstra/D-numbers.py)</sup>
+
+- **Строки** <sup>[`tasks`](algorithms/6-strings/tasks.md)</sup>
+
+  - Функция от строчки <sup>[solution](algorithms/6-strings/A-string-function.py)</sup>
+  - Период строки <sup>[solution](algorithms/6-strings/B-string-period.py)</sup>
+  - Подпалиндромы <sup>[solution](algorithms/6-strings/C-sub-palindromes.py)</sup>
+  - Поиск подстроки <sup>[solution](algorithms/6-strings/D-substring-search.py)</sup>
